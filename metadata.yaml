@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Twenty-first-Regiment-or-the-Royal-North-British-Fusiliers-Containin__54029
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Historical record of the 21st Foot
+covers:
+- cover_type: archival
+  image_path: 54029-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45414'
     url: http://www.gutenberg.org/2009/agents/45414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54029#Historical-Record-of-the-Twenty-first-Regiment-or-the-Royal-North-British-Fusiliers-Containin_
 gutenberg_issued: '2017-01-20'
 gutenberg_type: Text
 identifiers:
