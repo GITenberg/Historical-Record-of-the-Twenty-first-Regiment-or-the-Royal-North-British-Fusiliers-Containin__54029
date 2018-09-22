@@ -1,0 +1,27 @@
+_repo: Historical-Record-of-the-Twenty-first-Regiment-or-the-Royal-North-British-Fusiliers-Containin__54029
+_version: 0.0.1
+alternative_title: Historical record of the 21st Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2017-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Royal Scots Fusiliers'
+- !lcc 'UA'
+- GITenberg
+title: "Historical Record of the Twenty-first Regiment, or the Royal North British\
+  \ Fusiliers\r\nContaining an Account of the Formation of the Regiment in 1678, and\
+  \ of Its Subsequent Services to 1849"
+url: http://www.gutenberg.org/ebooks/54029
